@@ -12,3 +12,4 @@ export const HEROES: Hero[] = [
   { id: 20, name: 'Vinsmoke Sanji' }
 ];
 
+//these are heroes from one piece anime
